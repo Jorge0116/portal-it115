@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+  <title>Networking</title>
+  <link href="/normalize.css" rel="stylesheet">
+  <style>
+    header {
+      text-align: center;
+      background-color: grey;
+      background-size: cover;
+      color: white;
+      z-index: 3;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    #track {
+        float: left;
+        clear:bolth;
+        width: 50%;
+        margin: 5px;
+      }
+    body {
+      background-color:rgba(207, 191, 192)
+    }
+    p {
+      font-size:20px;
+    }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+  </style>
+</head>
+<body>
+  <header>
+   <img src="">
+    <h1>Hobbies</h1>
+    <h2></h2>
+    <ul>
+      <li><a href="#">Personal Branding</a></li>
+      <li><a href="#">Resume</a></li>
+      <li><a href="resume.html">Interview</a></li>
+    </ul>
+  </header>
+  <article>
+    <img src="">
+    <h2 id="about-me">Networking</h2>
+    <p id="about"></p>
+</body>
+
+</html>
