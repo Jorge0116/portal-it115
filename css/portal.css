@@ -4,7 +4,7 @@
 
 html {
     background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    font-family: "Audiowide", sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -107,7 +107,7 @@ footer {
     }
     
     picture.profile img {
-        width: 100%;
+        width: 60%;
     }
     
 }
