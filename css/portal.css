@@ -111,3 +111,7 @@ footer {
     }
     
 }
+li:hover{
+    padding: 10px;
+    color:red;
+}
